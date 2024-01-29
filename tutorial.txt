@@ -1,0 +1,25 @@
+Playlist
+
+https://www.youtube.com/watch?v=vgvOTdAnTl8&list=PL3i9po_eXL_orh8YJcdGNO0C6P2mHABT7
+
+Angular 16 Tutorial - Introduction and Installation #1
+
+Install extensions 
+    - Angular Snippets (Version 16)
+    - Console Ninja
+    - Prettier
+
+Documentation - https://angular.io
+
+npm install -g @angular/cli
+ng version
+
+new project
+ng new project-name
+- Angular routing? y
+- Which stylesheet? SCSS
+- Server side rendering / static site generation (Pergunta não prevista no vídeo - respondi que sim)
+
+yarn start
+
+Angular 16 Tutorial- Understand Folder Structure #2
