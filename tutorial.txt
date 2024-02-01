@@ -1,6 +1,7 @@
 Playlist
 
 https://www.youtube.com/watch?v=vgvOTdAnTl8&list=PL3i9po_eXL_orh8YJcdGNO0C6P2mHABT7
+https://www.youtube.com/watch?v=E5kle3LPVV8&list=PL3i9po_eXL_orh8YJcdGNO0C6P2mHABT7&index=3
 
 Angular 16 Tutorial - Introduction and Installation #1
 
@@ -23,3 +24,15 @@ ng new project-name
 yarn start
 
 Angular 16 Tutorial- Understand Folder Structure #2
+- Typescript files
+- Adding components (Versão 17 do Angular parece ser diferente)
+
+Angular 16 Tutorial- Data Binding and Types #3
+
+One way databinding
+Attribute Binding
+Class Binding
+Style Binding
+Event Binding
+
+Angular 16 Tutorial - Two way Data Binding and Attribute Directives  #4
