@@ -40,3 +40,6 @@ Angular 16 Tutorial - Two way Data Binding and Attribute Directives  #4
 - Overriding the property
 
 Angular 16 Tutorial - Structure Directives ngIf ngFor ngSwitch #5
+- ngIf warning: import CommonModule // imports: [RouterOutlet, CommonModule]
+
+Angular 16 Tutorial - Build in Pipes and Custom Pipes #6
